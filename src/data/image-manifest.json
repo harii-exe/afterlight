@@ -1,0 +1,595 @@
+{
+  "apollo11": {
+    "dir": "apollo11",
+    "images": [
+      {
+        "file": "apollo11/img1.jpg",
+        "bytes": 162613,
+        "title": "KSC-as11-40-5927",
+        "center": "KSC",
+        "description": "JOHNSON SPACE CENTER, HOUSTON, TEXAS  - Man's first landing on the Moon was accomplished at 4:17 p.m. today as Lunar Module \"Eagle\" touched down gently on the Sea of Tranquility on the east side of the Moon.  Astronaut Edwin E. Aldrin Jr., Lunar Module Pilot, removes scientific experiment packages from a stowage area in the Lunar Module's descent stage.  Left behind on the lunar surface by Aldrin and Neil A. Armstrong, Apollo 11 commander, were a Passive Seismic Experiments Package and a Laser-Ranging Retro-Reflector.",
+        "date": "1969-07-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/KSC-as11-40-5927/KSC-as11-40-5927~medium.jpg"
+      },
+      {
+        "file": "apollo11/img2.jpg",
+        "bytes": 136719,
+        "title": "Saturn Apollo Program",
+        "center": "MSFC",
+        "description": "The Apollo 11 mission launched from the Kennedy Space Center (KSC) in Florida via the Marshall Space Flight Center (MSFC) developed Saturn V launch vehicle on July 16, 1969 and safely returned to Earth on July 24, 1969. Aboard the space craft were astronauts Neil A. Armstrong, commander; Michael Collins, Command Module (CM) pilot; and Edwin E. (Buzz) Aldrin Jr., Lunar Module (LM) pilot. With the success of Apollo 11, the national objective to land men on the Moon and return them safely to Earth had been accomplished. These sketches illustrate the steps taken when the astronauts left the Moon. After 2½ hours of surface exploration, astronauts Neil Armstrong and Edwin Aldrin returned to the Lunar Module (LM) “Eagle” for rest, eating, and checkout of the vehicle in preparation for liftoff. The ascent stage lifted off, using the descent stage as a launch pad. The ascent stage went into lunar orbit and moved in to dock with the orbiting CM “Columbia”. After Armstrong and Aldrin joined Collins in the CM, the engine of the LM ascent stage was fired to move it out of the same orbit.",
+        "date": "1969-07-06T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/6902073/6902073~medium.jpg"
+      },
+      {
+        "file": "apollo11/img3.jpg",
+        "bytes": 257922,
+        "title": "View of footpad of Apollo 11 Lunar Module as it rested on lunar surface",
+        "center": "JSC",
+        "description": "A close-up view of a footpad of the Apollo 11 Lunar Module as it rested on the surface of the Moon. The stick-like protruding object is a lunar surface sensing probe. This photograph was take with a 70mm lunar surface camera during the extravehicular activity of Astronauts Neil Armstrong and Edwin Aldrin on July 20, 1969.",
+        "date": "1969-07-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as11-40-5917/as11-40-5917~medium.jpg"
+      },
+      {
+        "file": "apollo11/img4.jpg",
+        "bytes": 189198,
+        "title": "View Apollo 11 Lunar Module as it rested on lunar surface",
+        "center": "JSC",
+        "description": "AS11-40-5927 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, prepares to deploy the Early Apollo Scientific Experiments Package (EASEP) during the Apollo 11 lunar surface extravehicular activity (EVA). Astronaut Neil A. Armstrong, commander, took this picture with a 70mm lunar surface camera. During flight the EASEP is stowed in the Lunar Module's (LM) scientific equipment bay at the left year quadrant of the descent stage looking forward. Aldrin is removing the EASEP from its stowed position. Photo credit: NASA",
+        "date": "1969-07-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as11-40-5927/as11-40-5927~medium.jpg"
+      },
+      {
+        "file": "apollo11/img5.jpg",
+        "bytes": 96995,
+        "title": "Apollo 11 stereo view showing stone embedded in powdery lunar surface",
+        "center": "JSC",
+        "description": "AS11-45-6712 (20 July 1969) --- An Apollo 11 stereo view of a stone, about two and one-half inches long, embedded in the powdery lunar surface material. The little pieces closely around it suggest that it has suffered some erosion. On the surface several small pits are seen, mostly less than one-eighth inch in size, and with a glazed surface. They have a raised rim, characteristic of pits made by the Apollo 11 35mm stereo close-up camera. The camera was specially developed to get the highest possible resolution of a small area. A three-inch square area is photographed with a flash illumination and at a fixed distance. The camera is mounted on a walking stick, and the astronauts use it by holding it up against the object to be photographed and pulling the trigger. The pictures are in color and give a stereo view, enabling the fine detail to be seen very clearly. The project is under the direction of Professor T. Gold of Cornell University and Mr. F. Pearce of NASA. The camera was designed and built by Eastman Kodak. Professor E. Purcell of Harvard University and Dr. E. Land of the Polaroid Corporation have contributed to the project. The pictures brought back from the moon by the Apollo 11 crew are of excellent quality and allow fine detail of the undisturbed lunar surface to be seen. Scientists hope to be able to deduce from them some of the processes that have taken place that have shaped and modified the surface.",
+        "date": "1969-07-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as11-45-6712/as11-45-6712~medium.jpg"
+      },
+      {
+        "file": "apollo11/img6.jpg",
+        "bytes": 233518,
+        "title": "Astronaut Edwin Aldrin prepares to deploy EASEP on surface of moon",
+        "center": "JSC",
+        "description": "AS11-40-5931 (20 July 1969) --- Astronaut Edwin E. Aldrin Jr., lunar module pilot, prepares to deploy the Early Apollo Scientific Experiments Package (EASEP) on the surface of the moon during the Apollo 11 extravehicular activity. Astronaut Neil A. Armstrong, commander, took this photograph with a 70mm lunar surface camera. In the foreground is the Apollo 11 35mm stereo close-up camera.",
+        "date": "1969-07-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as11-40-5931/as11-40-5931~medium.jpg"
+      }
+    ]
+  },
+  "surveyor3": {
+    "dir": "surveyor3",
+    "images": [
+      {
+        "file": "surveyor3/img1.jpg",
+        "bytes": 291167,
+        "title": "View of Surveyor III in its crater",
+        "center": "JSC",
+        "description": "AS12-48-7121 (20 Nov. 1969) --- An excellent view of the unmanned Surveyor 3 spacecraft which was photographed during the Apollo 12 second extravehicular activity (EVA) on the surface of the moon. The Apollo 12 Lunar Module (LM), with astronauts Charles Conrad Jr., commander, and Alan L. Bean, lunar module pilot, aboard landed within 600 feet of Surveyor 3 in the Ocean of Storms. The television camera and several other pieces were taken from Surveyor 3 and brought back to Earth for scientific examination. Surveyor 3 landed on the side of this small crater in the Ocean of Storms on April 19, 1967. Astronaut Richard F. Gordon Jr., command module pilot, remained with the Apollo 12 Command and Service Modules (CSM) in lunar orbit while Conrad and Bean descended to explore the moon.",
+        "date": "1969-11-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as12-48-7121/as12-48-7121~medium.jpg"
+      },
+      {
+        "file": "surveyor3/img2.jpg",
+        "bytes": 199152,
+        "title": "View of two U.S. spacecraft on the surface of the moon",
+        "center": "JSC",
+        "description": "AS12-48-7133 (20 Nov. 1969) --- This unusual photograph, taken during the second Apollo 12 extravehicular activity (EVA), shows two U.S. spacecraft on the surface of the moon. The Apollo 12 Lunar Module (LM) is in the background. The unmanned Surveyor 3 spacecraft is in the foreground. The Apollo 12 LM, with astronauts Charles Conrad Jr. and Alan L. Bean aboard, landed about 600 feet from Surveyor 3 in the Ocean of Storms. The television camera and several other pieces were taken from Surveyor 3 and brought back to Earth for scientific examination. Here, Conrad examines the Surveyor's TV camera prior to detaching it. Astronaut Richard F. Gordon Jr. remained with the Apollo 12 Command and Service Modules (CSM) in lunar orbit while Conrad and Bean descended in the LM to explore the moon. Surveyor 3 soft-landed on the moon on April 19, 1967.",
+        "date": "1969-11-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/AS12-48-7133/AS12-48-7133~medium.jpg"
+      },
+      {
+        "file": "surveyor3/img3.jpg",
+        "bytes": 218814,
+        "title": "Apollo XII - EVA CREW TRAINING - KSC",
+        "center": "JSC",
+        "description": "S69-55367 (6 Oct. 1969) --- Two members of the Apollo 12 lunar landing mission participate in lunar surface extravehicular activity (EVA) simulations in the Kennedy Space Center's (KSC) Flight Crew Training Building. Here, astronauts Charles Conrad Jr. (right), commander; and Alan L. Bean, lunar module pilot, simulate a photographic inspection of the unmanned Surveyor 3 spacecraft. The inspection of Surveyor 3, which has been resting on the moon's Ocean of Storms since April 1967, is an important objective of the Apollo 12 mission. Selected pieces will be cut from Surveyor 3 and brought back to Earth for scientific examination.",
+        "date": "1969-10-06T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/S69-55367/S69-55367~medium.jpg"
+      },
+      {
+        "file": "surveyor3/img4.jpg",
+        "bytes": 243472,
+        "title": "Apollo 12 Mission image - Astronaut Alan L. Bean,lunar module pilot,and two U.S. spacecraft ",
+        "center": "JSC",
+        "description": "AS12-48-7134 (20 Nov. 1969) --- This unusual photograph, taken during the second Apollo 12 extravehicular activity (EVA), shows two U.S. spacecraft on the surface of the moon. The Apollo 12 Lunar Module (LM) is in the background. The unmanned Surveyor 3 spacecraft is in the foreground. The Apollo 12 LM, with astronauts Charles Conrad Jr. and Alan L. Bean aboard, landed about 600 feet from Surveyor 3 in the Ocean of Storms. The television camera and several other pieces were taken from Surveyor 3 and brought back to Earth for scientific examination. Here, Conrad examines the Surveyor's TV camera prior to detaching it. Astronaut Richard F. Gordon Jr. remained with the Apollo 12 Command and Service Modules (CSM) in lunar orbit while Conrad and Bean descended in the LM to explore the moon. Surveyor 3 soft-landed on the moon on April 19, 1967.",
+        "date": "1969-11-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/AS12-48-7134/AS12-48-7134~medium.jpg"
+      },
+      {
+        "file": "surveyor3/img5.jpg",
+        "bytes": 360599,
+        "title": "Apollo 12 Mission image - View of the Surveyor III craft,which landed April 19,1967 ",
+        "center": "JSC",
+        "description": "AS12-48-7110 (20 Nov. 1969) --- A close-up view of a footpad and surface sampler with scoop (arm, out of frame) on the Surveyor 3 spacecraft which was photographed by the Apollo 12 astronauts during their second extravehicular activity (EVA) on the moon. The Apollo 12 Lunar Module (LM), with astronauts Charles Conrad Jr. and Alan L. Bean aboard, touched down in the Ocean of Storms only 600 feet from Surveyor 3. The television camera and several other pieces were taken from Surveyor 3 and brought back to Earth for scientific examination. The unmanned spacecraft soft-landed on the moon on April 19, 1967. Note the imprint in the lunar soil which was caused when the Surveyor 3 bounced upon landing.",
+        "date": "1969-11-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/as12-48-7110/as12-48-7110~medium.jpg"
+      },
+      {
+        "file": "surveyor3/img6.jpg",
+        "bytes": 260292,
+        "title": "Saturn Apollo Program",
+        "center": "MSFC",
+        "description": "The second manned lunar landing mission, Apollo 12 launched from launch pad 39-A at Kennedy Space Center in Florida on November 14, 1969 via a Saturn Five launch vehicle. The Saturn V vehicle was developed by the Marshall Space Flight Center (MSFC) under the direction of Dr. Wernher von Braun. Aboard Apollo 12 was a crew of three astronauts: Alan L. Bean, pilot of the Lunar Module (LM), Intrepid; Richard Gordon, pilot of the Command Module (CM), Yankee Clipper; and Spacecraft Commander Charles Conrad. The LM, Intrepid, landed astronauts Conrad and Bean on the lunar surface in what’s known as the Ocean of Storms while astronaut Richard Gordon piloted the CM, Yankee Clipper, in a parking orbit around the Moon. Their lunar soil activities included the deployment of the Apollo Lunar Surface Experiments Package (ALSEP), finding the unmanned Surveyor 3 that landed on the Moon on April 19, 1967, and collecting 75 pounds (34 kilograms) of rock samples. In this photograph, one of the astronauts on the Moon’s surface is holding a container of lunar soil. The other astronaut is seen reflected in his helmet. Apollo 12 safely returned to Earth on November 24, 1969.",
+        "date": "1969-11-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/6903870/6903870~medium.jpg"
+      }
+    ]
+  },
+  "viking1": {
+    "dir": "viking1",
+    "images": [
+      {
+        "file": "viking1/img1.jpg",
+        "bytes": 142444,
+        "title": "Mars Surface near Viking Lander 1 Footpad",
+        "center": "JPL",
+        "description": "Mars Surface near Viking Lander 1 Footpad",
+        "date": "2008-05-30T21:21:04Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA10738/PIA10738~thumb.jpg"
+      },
+      {
+        "file": "viking1/img2.jpg",
+        "bytes": 13118,
+        "title": "Viking Lander 1 U.S. Flag on Mars Surface",
+        "center": "JPL",
+        "description": "Viking Lander 1 U.S. Flag on Mars Surface",
+        "date": "1997-02-28T03:03:08Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA00565/PIA00565~thumb.jpg"
+      },
+      {
+        "file": "viking1/img3.jpg",
+        "bytes": 60277,
+        "title": "Launch Vehicles",
+        "center": "MSFC",
+        "description": "The Titan III-Centaur carrying the Viking 1 Lander lifted off on August 20, 1975. The Viking Lander conducted a detailed scientific investigation of the planet Mars. ",
+        "date": "1975-08-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/9141929/9141929~medium.jpg"
+      },
+      {
+        "file": "viking1/img4.jpg",
+        "bytes": 54136,
+        "title": "Mars Orbiter Camera Acquires High Resolution Stereoscopic Images of the Viking One Landing Site",
+        "center": "JPL",
+        "description": "This image of the vicinity of the Viking Lander 1 was captured by NASA Mars Global Surveyor MOC camera. site. 3D glasses are necessary to identify surface detail.",
+        "date": "1998-07-03T14:03:15Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA01443/PIA01443~small.jpg"
+      },
+      {
+        "file": "viking1/img5.jpg",
+        "bytes": 202915,
+        "title": "KSC-75p-110",
+        "center": "KSC",
+        "photographer": "NASA or National Aeronautics and Space Administration",
+        "description": "CAPE CANAVERAL, Fla. -- At the Kennedy Space Center in Florida, technicians inspect the Viking Lander 2 in Kennedy's Spacecraft Assembly and Encapsulation Facility 1. The first Viking is scheduled for launch from Launch Complex 41 no earlier than Aug. 11, 1975, the second, no earlier than Aug. 21, 1975. Once in orbit around Mars, the lander will detach and descend to the planet's surface to conduct further investigation. The Viking's 440-million-mile journey to the Red Planet will take about 11 months. Photo Credit: NASA",
+        "date": "1975-02-06T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/101-KSC-75P-110/101-KSC-75P-110~medium.jpg"
+      },
+      {
+        "file": "viking1/img6.jpg",
+        "bytes": 171826,
+        "title": "KSC-75p-12",
+        "center": "KSC",
+        "photographer": "NASA or National Aeronautics and Space Administration",
+        "description": "KENNEDY SPACE CENTER, FLA. --  Technicians prepared for removal of Viking Lander 1's aeroshell cover in KSC's Spacecraft Assembly and Encapsulation Facility 2 (SAEF-2) today.  The cover remains over the Lander throughout its 440,000,000-mile journey to Mars.  After the Lander separates from the Orbiter, the aeroshell will help to decelerate the speed of descent and will serve as a heat shield.  After the aeroshell separates, the Lander's parachute will deploy at about 4,000 feet altitude to further slow descent for a soft landing on the Red Planet.  The Kennedy Space Center will launch the first Viking from Complex 41, Cape Canaveral, no earlier than Aug. 11.  The second Viking will be launched no earlier than Aug. 21.",
+        "date": "1975-01-07T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/101-KSC-75P-12/101-KSC-75P-12~medium.jpg"
+      }
+    ]
+  },
+  "pathfinder": {
+    "dir": "pathfinder",
+    "images": [
+      {
+        "file": "pathfinder/img1.jpg",
+        "bytes": 62627,
+        "title": "Newest is Biggest: Three Generations of NASA Mars Rovers",
+        "center": "JPL",
+        "description": "Full-scale models of three generations of NASA Mars rovers show the increase in size from the Sojourner rover of the Mars Pathfinder project, to the twin Mars Exploration Rovers Spirit and Opportunity, to the Mars Science Laboratory rover.",
+        "date": "2008-11-19T16:21:01Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11436/PIA11436~small.jpg"
+      },
+      {
+        "file": "pathfinder/img2.jpg",
+        "bytes": 61479,
+        "title": "Size Comparison: Three Generations of Mars Rovers",
+        "center": "JPL",
+        "description": "Full-scale models of three generations of NASA Mars rovers show the increase in size from the Sojourner rover of the Mars Pathfinder project, to the twin Mars Exploration Rovers Spirit and Opportunity, to the Mars Science Laboratory rover.",
+        "date": "2008-11-19T16:21:01Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11431/PIA11431~small.jpg"
+      },
+      {
+        "file": "pathfinder/img3.jpg",
+        "bytes": 157360,
+        "title": "Rovers and Sojourner",
+        "center": "JPL",
+        "description": "The twin rovers of NASAa Mars Exploration Rover Mission pose with their groundbreaking predecessor, the flight spare of the Sojourner rover from NASA 1997 Pathfinder mission.  ",
+        "date": "2003-02-26T21:03:54Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA04422/PIA04422~medium.jpg"
+      },
+      {
+        "file": "pathfinder/img4.jpg",
+        "bytes": 84663,
+        "title": "Sojourner Sits Near \"Rock Garden\"",
+        "center": "JPL",
+        "description": "The Mars Pathfinder Rover Sojourner images by the Imager for Mars Pathfinder as it nears the rock \"Wedge.\" Part of the Rock Garden is visible in the upper right of the image.  http://photojournal.jpl.nasa.gov/catalog/PIA04318",
+        "date": "2003-02-01T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA04318/PIA04318~thumb.jpg"
+      },
+      {
+        "file": "pathfinder/img5.jpg",
+        "bytes": 12645,
+        "title": "Flat Top",
+        "center": "JPL",
+        "description": "A close-up of the rectangular rock called \"Flat Top\" from NASA's Mars Pathfinder (MPF) rover Sojourner in July, 1997.  http://photojournal.jpl.nasa.gov/catalog/PIA00626",
+        "date": "1997-07-06T19:09:36Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA00626/PIA00626~thumb.jpg"
+      },
+      {
+        "file": "pathfinder/img6.jpg",
+        "bytes": 28876,
+        "title": "Color Mosaic of Rover & Terrain",
+        "center": "JPL",
+        "description": "NASA's Sojourner rover and undeployed ramps onboard the Mars Pathfinder spacecraft can be seen in this image, by the Imager for Mars Pathfinder (IMP) on July 4 (Sol 1). This image has been corrected for the curvature created by parallax. The microrover Sojourner is latched to the petal, and has not yet been deployed. The ramps are a pair of deployable metal reels which will provide a track for the rover as it slowly rolls off the lander, over the spacecraft's deflated airbags, and onto the surface of Mars. Pathfinder scientists will use this image to determine whether it is safe to deploy the ramps. One or both of the ramps will be unfurled, and then scientists will decide whether the rover will use either the forward or backward ramp for its descent.  http://photojournal.jpl.nasa.gov/catalog/PIA00621",
+        "date": "1997-07-05T16:18:42Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA00621/PIA00621~small.jpg"
+      }
+    ]
+  },
+  "spirit": {
+    "dir": "spirit",
+    "images": [
+      {
+        "file": "spirit/img1.jpg",
+        "bytes": 46819,
+        "title": "Spirit Stretches Out",
+        "center": "JPL",
+        "description": "This frame from an animation flips back and forth between images taken before and after deployment of the Mars Exploration Rover Spirit's bogie, a part of the rover's suspension system that extends the wheel base. These images were taken by Spirit's hazard avoidance camera.  An animation is available at http://photojournal.jpl.nasa.gov/catalog/PIA05040",
+        "date": "2004-01-10T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA05040/PIA05040~small.jpg"
+      },
+      {
+        "file": "spirit/img2.jpg",
+        "bytes": 95736,
+        "title": "Mars Exploration Rover MER-A Spirit Landing Site",
+        "center": "JPL",
+        "description": "Mars Exploration Rover MER-A Spirit Landing Site",
+        "date": "2004-01-03T06:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA05120/PIA05120~medium.jpg"
+      },
+      {
+        "file": "spirit/img3.jpg",
+        "bytes": 68377,
+        "title": "Von Braun Mound in Spirit Drive Direction",
+        "center": "JPL",
+        "description": "NASA Mars Exploration Rover Spirit used its navigation camera to capture this view of the terrain toward the southeast from the location Spirit reached on the 1,871st Martian day, or sol, of the rover mission on Mars April 8, 2009.   The mound on the horizon in the upper left is informally called \"Von Braun\" and is one of the features that rover team has designated as a possible investigation site in future months. From the location where Spirit was when the image was taken, Von Braun is about 160 meters (525 feet) away.   http://photojournal.jpl.nasa.gov/catalog/PIA11996",
+        "date": "2009-04-23T22:20:29Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11996/PIA11996~small.jpg"
+      },
+      {
+        "file": "spirit/img4.jpg",
+        "bytes": 189063,
+        "title": "Spirit 360-Degree View on Sol 409 (vertical)",
+        "center": "JPL",
+        "description": "NASA's Mars Exploration Rover Spirit used its navigation camera to take the images combined into this 360-degree view of the rover's surroundings on Spirit's 409th martian day, or sol (Feb. 26, 2005). Spirit had driven 2 meters (7 feet) on this sol to get in position on \"Cumberland Ridge\" for looking into \"Tennessee Valley\" to the east. This location is catalogued as Spirit's Site 108. Rover-wheel tracks from climbing the ridge are visible on the right. The summit of \"Husband Hill\" is at the center, to the south. This view is presented in a vertical projection with geometric and brightness seam correction.  http://photojournal.jpl.nasa.gov/catalog/PIA07410",
+        "date": "2005-03-03T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA07410/PIA07410~medium.jpg"
+      },
+      {
+        "file": "spirit/img5.jpg",
+        "bytes": 154017,
+        "title": "MGS MOC Image of Mars Exploration Rover, Spirit, on Mars",
+        "center": "JPL",
+        "description": "MGS MOC Image of Mars Exploration Rover, Spirit, on Mars",
+        "date": "2004-01-23T06:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA05248/PIA05248~medium.jpg"
+      },
+      {
+        "file": "spirit/img6.jpg",
+        "bytes": 41874,
+        "title": "Spirit Wheels Digging into Soft Ground, Sol 1899",
+        "center": "JPL",
+        "description": "Wheel slippage during attempts to extricate NASA's Mars Rover Spirit from a patch of soft ground during the preceding two weeks had partially buried the wheels by the 1,899th Martian day, or sol, of the Spirit's mission on Mars (May 6, 2009).  Spirit took this image with its front hazard-avoidance camera on Sol 1899. With Spirit in the position shown here, the rover team temporarily suspended driving attempts while studying the ground around Spirit and planning simulation tests of driving options with a test rover at NASA's Jet Propulsion Laboratory in Pasadena, Calif.  Driving attempts between the time Spirit took a similar image (PIA12002) 10 sols earlier and when this image was taken moved the rover a total of about 36 centimeters (14 inches).  While driving backwards, the rover drags its right front wheel, which no longer rotates. For scale, the distance between the wheel tracks is about 1 meter (40 inches). This view is looking northward, with Husband Hill on the horizon.  http://photojournal.jpl.nasa.gov/catalog/PIA12007",
+        "date": "2009-05-11T20:47:46Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA12007/PIA12007~small.jpg"
+      }
+    ]
+  },
+  "opportunity": {
+    "dir": "opportunity",
+    "images": [
+      {
+        "file": "opportunity/img1.jpg",
+        "bytes": 52907,
+        "title": "Mars Rover Opportunity at Rock Abrasion Target Potts",
+        "center": "JPL",
+        "description": "The target beneath the tool turret at the end of the rover's robotic arm in this image from NASA's Mars Exploration Rover Opportunity is \"Private John Potts.\" It lies high on the southern side of \"Marathon Valley,\" which slices through the western rim of Endeavour Crater.  The target's informal name refers to a member of the Lewis and Clark Expedition's Corps of Discovery.  The image was taken by Opportunity's front hazard avoidance camera on Jan. 5, 2016, during the 4,248th Martian day, or sol, of the rover's work on Mars. This camera is mounted low on the rover and has a wide-angle lens.  In this image, the microscopic imager on the turret is pointed downward. Opportunity's examination of this target also used the turret's rock abrasion tool for removing the surface crust and alpha particle X-ray spectrometer for identifying chemical elements in the rock.   http://photojournal.jpl.nasa.gov/catalog/PIA20285",
+        "date": "2016-01-25T19:10:53Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA20285/PIA20285~small.jpg"
+      },
+      {
+        "file": "opportunity/img2.jpg",
+        "bytes": 35403,
+        "title": "Frost on Mars Rover Opportunity",
+        "center": "JPL",
+        "description": "Frost on Mars Rover Opportunity",
+        "date": "2004-12-13T16:58:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA07108/PIA07108~thumb.jpg"
+      },
+      {
+        "file": "opportunity/img3.jpg",
+        "bytes": 41743,
+        "title": "Mars Rover Opportunity's View of 'Orion Crater' (Stereo)",
+        "center": "JPL",
+        "description": "This view of a small, relatively fresh crater on Mars combines images from the left eye and right eye of the Panoramic Camera (Pancam) on NASA's Opportunity Mars rover, to appear three-dimensional when seen through blue-red glasses with the red lens on the left. The rover paused beside the crater in April 2017, during the 45th anniversary of the Apollo 16 mission to the moon. The rover team chose to call it \"Orion Crater,\" after the Apollo 16 lunar module.  The crater's diameter is about 90 feet (27 meters). From the small amount of erosion or filling that Orion Crater has experienced, its age is estimated at no more than 10 million years. It lies on the western rim of Endeavour Crater. For comparison, Endeavor is about 14 miles (22 kilometers) in diameter and more than 3.6 billion years old.  The component images were taken on April 26, 2017, during the 4,712th Martian day, or sol, of Opportunity's work on Mars.   Apollo 16 astronauts John Young and Charles Duke flew in the Orion lunar module to and from the first human landing in the lunar highlands while Ken Mattingly orbited the moon in the command module, Casper. On the moon, Young and Duke investigated Plum Crater, which is approximately the same size as Mars' Orion Crater.  https://photojournal.jpl.nasa.gov/catalog/PIA21706",
+        "date": "2017-06-16T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA21706/PIA21706~medium.jpg"
+      },
+      {
+        "file": "opportunity/img4.jpg",
+        "bytes": 32429,
+        "title": "Mars Rover Opportunity's View of 'Orion Crater'",
+        "center": "JPL",
+        "description": "NASA's Opportunity Mars rover passed near this small, relatively fresh crater in April 2017, during the 45th anniversary of the Apollo 16 mission to the moon. The rover team chose to call it \"Orion Crater,\" after the Apollo 16 lunar module. The rover's Panoramic Camera (Pancam) recorded this view.  The crater's diameter is about 90 feet (27 meters). From the small amount of erosion or filling that Orion Crater has experienced, its age is estimated at no more than 10 million years. It lies on the western rim of Endeavour Crater. For comparison, Endeavor is about 14 miles (22 kilometers) in diameter and more than 3.6 billion years old.  This view combines multiple images taken through three different Pancam filters. The selected filters admit light centered on wavelengths of 753 nanometers (near-infrared), 535 nanometers (green) and 432 nanometers (violet). The three color bands are combined here to show approximately true color.  The component images were taken on April 26, 2017, during the 4,712th Martian day, or sol, of Opportunity's work on Mars.   Apollo 16 astronauts John Young and Charles Duke flew in the Orion lunar module to and from the first human landing in the lunar highlands while Ken Mattingly orbited the moon in the command module, Casper. On the moon, Young and Duke investigated Plum Crater, which is approximately the same size as Mars' Orion Crater.  https://photojournal.jpl.nasa.gov/catalog/PIA21708",
+        "date": "2017-06-16T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA21708/PIA21708~medium.jpg"
+      },
+      {
+        "file": "opportunity/img5.jpg",
+        "bytes": 44634,
+        "title": "Mars Rover Opportunity's View of 'Orion Crater' (Enhanced Color)",
+        "center": "JPL",
+        "description": "NASA's Opportunity Mars rover passed near this small, relatively fresh crater in April 2017, during the 45th anniversary of the Apollo 16 mission to the moon. The rover team chose to call it \"Orion Crater,\" after the Apollo 16 lunar module. The rover's Panoramic Camera (Pancam) recorded this view, presented in enhanced color to make differences in surface materials more easily visible.  The crater's diameter is about 90 feet (27 meters). From the small amount of erosion or filling that Orion Crater has experienced, its age is estimated at no more than 10 million years. It lies on the western rim of Endeavour Crater. For comparison, Endeavor is about 14 miles (22 kilometers) in diameter and more than 3.6 billion years old.  This view combines multiple images taken through three different Pancam filters. The selected filters admit light centered on wavelengths of 753 nanometers (near-infrared), 535 nanometers (green) and 432 nanometers (violet).  The component images were taken on April 26, 2017, during the 4,712th Martian day, or sol, of Opportunity's work on Mars.   Apollo 16 astronauts John Young and Charles Duke flew in the Orion lunar module to and from the first human landing in the lunar highlands while Ken Mattingly orbited the moon in the command module, Casper. On the moon, Young and Duke investigated Plum Crater, which is approximately the same size as Mars' Orion Crater.  https://photojournal.jpl.nasa.gov/catalog/PIA21707",
+        "date": "2017-06-16T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA21707/PIA21707~medium.jpg"
+      },
+      {
+        "file": "opportunity/img6.jpg",
+        "bytes": 15580,
+        "title": "Opportunity's View Downhill Catches Martian Shadows",
+        "center": "JPL",
+        "description": "Late-afternoon shadows include one cast by the rover itself in this look toward the floor of Endeavour Crater by NASA's Mars Exploration Rover Opportunity. The rover recorded this scene on Nov. 11, 2017, during the 4,911th Martian day, or sol, of the rover's work on Mars. That was about a week before Opportunity's eighth Martian winter solstice.  Opportunity's location is partway down a narrow valley that descends from the crest of the western rim of Endeavour Crater to the crater's floor. This fluid-carved set of troughs, called \"Perseverance Valley,\" is the length of about two football fields, at a slope of about 15 to 17 degrees.  The Navigation Camera (Navcam) on Opportunity's mast took the three component images stitched together into this scene. The images were taken about three minutes apart, long enough to see how the shadow was changing on the slope, at the seams between the images. Wheel tracks in the lower right of the scene were made before the rover climbed back uphill for a closer look at some rocks it had passed. The portions of the rover in the shadow at upper right include the mast with the Navcam and Panoramic Camera (Pancam) on top and the UHF radio antenna, which Opportunity uses to transmit images and other data to overflying orbiters for relay to Earth.  https://photojournal.jpl.nasa.gov/catalog/PIA22071",
+        "date": "2017-12-06T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA22071/PIA22071~small.jpg"
+      }
+    ]
+  },
+  "phoenix": {
+    "dir": "phoenix",
+    "images": [
+      {
+        "file": "phoenix/img1.jpg",
+        "bytes": 129322,
+        "title": "Phoenix Mars Lander Spacecraft Processing",
+        "center": "KSC",
+        "photographer": "NASA",
+        "description": "In the Payload Hazardous Servicing Facility, technicians attach a crane to the Phoenix Mars Lander spacecraft. The crane will be used to remove the heat shield from around the Phoenix. The Phoenix mission is the first project in NASA's first openly competed program of Mars Scout missions. Phoenix will land in icy soils near the north polar permanent ice cap of Mars and explore the history of the water in these soils and any associated rocks, while monitoring polar climate. Landing is planned in May 2008 on arctic ground where a mission currently in orbit, Mars Odyssey, has detected high concentrations of ice just beneath the top layer of soil. It will serve as NASA's first exploration of a potential modern habitat on Mars and open the door to a renewed search for carbon-bearing compounds, last attempted with NASA’s Viking missions in the 1970s. A stereo color camera and a weather station will study the surrounding environment while the other instruments check excavated soil samples for water, organic chemicals and conditions that could indicate whether the site was ever hospitable to life. Microscopes can reveal features as small as one one-thousandth the width of a human hair. Launch of Phoenix aboard a Delta II rocket is targeted for Aug. 3 from Cape Canaveral Air Force Station in Florida.",
+        "date": "2007-05-10T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/KSC-07PD-1085/KSC-07PD-1085~medium.jpg"
+      },
+      {
+        "file": "phoenix/img2.jpg",
+        "bytes": 65556,
+        "title": "NASA's Phoenix Lander on Mars, Nearly a Decade Later",
+        "center": "JPL",
+        "description": "This is one of two images taken nearly a decade apart of NASA's Mars Phoenix Lander and related hardware around the mission's May 25, 2008, landing site on far-northern Mars. By late 2017, dust had obscured much of what was visible two months after the landing.  Both images were taken by the High Resolution Imaging Science Experiment (HiRISE) camera on NASA's Mars Reconnaissance Orbiter. The one with three patches of darker ground -- where landing events removed dust -- was taken on July 20, 2008. It is Fig. 1, an excerpt of HiRISE observation PSP_009290_2485. The one with a more even coating of pale dust throughout the area was taken on Dec. 21, 2017. It is Fig. 2, an excerpt of HiRISE observation ESP_053451_2485. Both cover an area roughly 300 meters wide at 68 degrees north latitude, 234 degrees east longitude, and the two are closely matched in viewing and illumination geometry, from about five Martian years apart in northern hemisphere summers.  An animation comparing the two images shows a number of changes between mid-2008 and late 2017. The lander (top) appears darker, and is now covered by dust. The dark spot created by the heat shield impact (right) is brighter, again due to dust deposition. The back shell and parachute (bottom) shows a darker parachute and brighter area of impact disturbance, thanks again to deposits of dust. We also see that the parachute has shifted in the wind, moving to the east.  In August 2008, Phoenix completed its three-month mission studying Martian ice, soil and atmosphere. The lander worked for two additional months before reduced sunlight caused energy to become insufficient to keep the lander functioning. The solar-powered robot was not designed to survive through the dark and cold conditions of a Martian arctic winter.  An animation and both images are available at https://photojournal.jpl.nasa.gov/catalog/PIA22223",
+        "date": "2018-02-20T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA22223/PIA22223~small.jpg"
+      },
+      {
+        "file": "phoenix/img3.jpg",
+        "bytes": 105465,
+        "title": "La Mancha Trench Dug by Phoenix Mars Lander",
+        "center": "JPL",
+        "description": "La Mancha Trench Dug by Phoenix Mars Lander",
+        "date": "2008-12-15T01:10:10Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11720/PIA11720~small.jpg"
+      },
+      {
+        "file": "phoenix/img4.jpg",
+        "bytes": 255612,
+        "title": "Phoenix Lander Self Portrait on Mars, Vertical Projection",
+        "center": "JPL",
+        "description": "Phoenix Lander Self Portrait on Mars, Vertical Projection",
+        "date": "2008-12-15T01:10:09Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11719/PIA11719~medium.jpg"
+      },
+      {
+        "file": "phoenix/img5.jpg",
+        "bytes": 210808,
+        "title": "Phoenix Lander on Mars with Surrounding Terrain, Vertical Projection",
+        "center": "JPL",
+        "description": "Phoenix Lander on Mars with Surrounding Terrain, Vertical Projection",
+        "date": "2008-12-15T01:10:08Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA11718/PIA11718~medium.jpg"
+      },
+      {
+        "file": "phoenix/img6.jpg",
+        "bytes": 103858,
+        "title": "Phoenix Mars Lander in Testing",
+        "center": "JPL",
+        "description": "NASA next Mars-bound spacecraft, the Phoenix Mars Lander, partway through assembly and testing at Lockheed Martin Space Systems, Denver, in September 2006.",
+        "date": "2006-11-29T16:35:55Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA01885/PIA01885~thumb.jpg"
+      }
+    ]
+  },
+  "voyager1": {
+    "dir": "voyager1",
+    "images": [
+      {
+        "file": "voyager1/img1.jpg",
+        "bytes": 25283,
+        "title": "Voyager 1 Explores the Magnetic",
+        "center": "JPL",
+        "description": "This image from a set of animations show NASA Voyager 1 spacecraft exploring a new region in our solar system called the magnetic highway.",
+        "date": "2012-12-03T19:00:05Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA16486/PIA16486~small.jpg"
+      },
+      {
+        "file": "voyager1/img2.jpg",
+        "bytes": 72961,
+        "title": "Voyager 1 Launch 1977",
+        "center": "JPL",
+        "description": "This photograph from Sept. 5, 1977, shows the launch of NASA Voyager 1 spacecraft from NASA Kennedy Space Center at Cape Canaveral, Fla.",
+        "date": "2013-09-19T21:57:28Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA17464/PIA17464~medium.jpg"
+      },
+      {
+        "file": "voyager1/img3.jpg",
+        "bytes": 4395,
+        "title": "Changes on Io around Volund between Voyager 1 and Galileo Second Orbit",
+        "center": "JPL",
+        "description": "Changes on Io around Volund between Voyager 1 and Galileo Second Orbit",
+        "date": "1997-11-18T12:18:44Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA01071/PIA01071~thumb.jpg"
+      },
+      {
+        "file": "voyager1/img4.jpg",
+        "bytes": 124451,
+        "title": "ARC-1979-A79-7073",
+        "center": "ARC",
+        "photographer": "JPL",
+        "description": "P-21738 BW Raange: 4.76 million kilometers (2.9 million miles) This Voyager 2 picture of Io was taken in ultraviolet light and shows one of the volcanic eruption plumes first photographed by Voyager 1. (the bright spot on the right limb) The plume is more than 200 kilometers (124 miles) high. The volcano apparently has been erupting since it was observed by Voyager 1 in March, 1979. This suggests that the volcanoes on Io probably are in continuous eruption.",
+        "date": "1979-07-06T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/ARC-1979-A79-7073/ARC-1979-A79-7073~medium.jpg"
+      },
+      {
+        "file": "voyager1/img5.jpg",
+        "bytes": 43524,
+        "title": "ARC-1981-A79-7119",
+        "center": "ARC",
+        "photographer": "JPL",
+        "description": "Voyager 1 views of Jupiter's rings",
+        "date": "1981-08-03T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/ARC-1981-A79-7119/ARC-1981-A79-7119~medium.jpg"
+      },
+      {
+        "file": "voyager1/img6.jpg",
+        "bytes": 24501,
+        "title": "Plasma Flow Near Voyager 1 Artist Animation",
+        "center": "JPL",
+        "description": "This artist concept shows plasma flows around NASA Voyager 1 spacecraft as it approaches interstellar space. Voyager 1 low-energy charged particle instrument detects the speed of the wind of plasma, or hot ionized gas, streaming off the sun.",
+        "date": "2012-12-03T19:00:02Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA16483/PIA16483~small.jpg"
+      }
+    ]
+  },
+  "cassini": {
+    "dir": "cassini",
+    "images": [
+      {
+        "file": "cassini/img1.jpg",
+        "bytes": 17177,
+        "title": "Cassini Grand Finale Dive Illustration",
+        "center": "JPL",
+        "description": "This illustration shows NASA's Cassini spacecraft about to make one of its dives between Saturn and its innermost rings as part of the mission's Grand Finale.  Cassini will make 22 orbits that swoop between the rings and the planet before ending its mission on Sept. 15, 2017, with a final plunge into Saturn.  https://photojournal.jpl.nasa.gov/catalog/PIA21439",
+        "date": "2017-04-04T18:50:02Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA21439/PIA21439~small.jpg"
+      },
+      {
+        "file": "cassini/img2.jpg",
+        "bytes": 14900,
+        "title": "Grand Finale: Cassini in the Gap (Illustration)",
+        "center": "JPL",
+        "description": "This illustration shows NASA's Cassini spacecraft about to make one of its dives between Saturn and its innermost rings as part of the mission's Grand Finale.  Cassini made 22 orbits that swooped between the rings and the planet before ending its mission on Sept. 15, 2017, with a final plunge into Saturn.  https://photojournal.jpl.nasa.gov/catalog/PIA22767",
+        "date": "2018-10-02T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA22767/PIA22767~small.jpg"
+      },
+      {
+        "file": "cassini/img3.jpg",
+        "bytes": 78554,
+        "title": "Grand Finale: One of Cassini's Last Dives (Illustration)",
+        "center": "JPL",
+        "description": "This illustration imagines the view from NASA's Cassini spacecraft during one of its final dives between Saturn and its innermost rings, as part of the mission's Grand Finale. Cassini made 22 orbits that swooped between the rings and the planet before ending its mission on Sept. 15, 2017, with a final plunge into Saturn.  https://photojournal.jpl.nasa.gov/catalog/PIA22768",
+        "date": "2018-10-03T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/PIA22768/PIA22768~medium.jpg"
+      },
+      {
+        "file": "cassini/img4.jpg",
+        "bytes": 70981,
+        "title": "Cassini End of Mission",
+        "center": "HQ",
+        "photographer": "NASA/Joel Kowsky",
+        "description": "Cassini program manager at JPL, Earl Maize, center row, calls out the end of the Cassini mission, Friday, Sept. 15, 2017 at NASA's Jet Propulsion Laboratory in Pasadena, California. Since its arrival in 2004, the Cassini-Huygens mission has been a discovery machine, revolutionizing our knowledge of the Saturn system and captivating us with data and images never before obtained with such detail and clarity. On Sept. 15, 2017, operators deliberately plunged the spacecraft into Saturn, as Cassini gathered science until the end. The “plunge” ensures Saturn’s moons will remain pristine for future exploration. During Cassini’s final days, mission team members from all around the world gathered at NASA’s Jet Propulsion Laboratory, Pasadena, California, to celebrate the achievements of this historic mission. Photo Credit: (NASA/Joel Kowsky)",
+        "date": "2017-09-15T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/NHQ201709150006/NHQ201709150006~medium.jpg"
+      },
+      {
+        "file": "cassini/img5.jpg",
+        "bytes": 86234,
+        "title": "Cassini End of Mission Preview",
+        "center": "HQ",
+        "photographer": "NASA/Joel Kowsky",
+        "description": "Cassini project scientist at JPL, Linda Spilker answers questions from members of the media during a press conference previewing Cassini's End of Mission, Wednesday, Sept. 13, 2017 at NASA's Jet Propulsion Laboratory in Pasadena, California. Since its arrival in 2004, the Cassini-Huygens mission has been a discovery machine, revolutionizing our knowledge of the Saturn system and captivating us with data and images never before obtained with such detail and clarity. On Sept. 15, 2017, operators will deliberately plunge the spacecraft into Saturn, as Cassini gathered science until the end. The “plunge” ensures Saturn’s moons will remain pristine for future exploration. During Cassini’s final days, mission team members from all around the world gathered at NASA’s Jet Propulsion Laboratory, Pasadena, California, to celebrate the achievements of this historic mission. Photo Credit: (NASA/Joel Kowsky)",
+        "date": "2017-09-13T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/NHQ201709130113/NHQ201709130113~medium.jpg"
+      },
+      {
+        "file": "cassini/img6.jpg",
+        "bytes": 136828,
+        "title": "Cassini NASA Social",
+        "center": "HQ",
+        "photographer": "NASA/Joel Kowsky",
+        "description": "Cassini NASA Social attendees speak with members of the Cassini mission team in the Charles Elachi Mission Control Center in the Space Flight Operation Center, Thursday, Sept. 14, 2017 at NASA's Jet Propulsion Laboratory in Pasadena, California. Since its arrival in 2004, the Cassini-Huygens mission has been a discovery machine, revolutionizing our knowledge of the Saturn system and captivating us with data and images never before obtained with such detail and clarity. On Sept. 15, 2017, operators will deliberately plunge the spacecraft into Saturn, as Cassini gathered science until the end. The “plunge” ensures Saturn’s moons will remain pristine for future exploration. During Cassini’s final days, mission team members from all around the world gathered at NASA’s Jet Propulsion Laboratory, Pasadena, California, to celebrate the achievements of this historic mission. Photo Credit: (NASA/Joel Kowsky)",
+        "date": "2017-09-14T00:00:00Z",
+        "source": "NASA Image and Video Library",
+        "sourceUrl": "https://images-assets.nasa.gov/image/NHQ201709140007/NHQ201709140007~medium.jpg"
+      }
+    ]
+  }
+}
